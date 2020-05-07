@@ -1,17 +1,11 @@
 # idapp
 
-A new Flutter project.
+A Simple project for ID card for badass level.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project demonstrates the basic functionality provided by flutter for app development.
 
-A few resources to get you started if this is your first Flutter project:
+This is a single page application where user can see the details as well he can update the 
+badass level by clicking on add button.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# idapp
